@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>IALP020</LastAuthor>
+  <LastSaved>2015-07-28T12:36:15Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="33" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="56.25"/>
+   <Column ss:Width="166.5"/>
+   <Column ss:Index="6" ss:Width="233.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="152.25"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">id</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">z_module_id</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">table_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">field_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">field_type</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">field_display_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">SECTION</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3254</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">suite</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">Suite</Data></Cell>
+    <Cell><Data ss:Type="String">Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3255</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">location_postal_code_last</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Location Address</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3256</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">chain_code</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">Chain Code</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3257</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">add_location_existing_mid</Data></Cell>
+    <Cell><Data ss:Type="String">checkbox</Data></Cell>
+    <Cell><Data ss:Type="String">Add Location to Existing MID</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3258</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">existing_mid</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">Existing MID</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3259</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">statement_hold_reference</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Statement Hold Reference</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3260</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">statement_addl_page_reference</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Statement Additional Page Reference</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3261</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">12b_letter_type</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">12B Letter Type</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3262</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">exclude_adj_charge_back_reference</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Exclude Adjustments OR Chargebacks References</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3263</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">auto_pm_flag_reference</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Auto PM Flag Reference</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3264</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">chain_headquarter_percent</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">Chain Headquarter Percent</Data></Cell>
+    <Cell><Data ss:Type="String">More Company Details</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3265</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_owners</Data></Cell>
+    <Cell><Data ss:Type="String">guarantor_code</Data></Cell>
+    <Cell><Data ss:Type="String">boolean</Data></Cell>
+    <Cell><Data ss:Type="String">Guarantor Code</Data></Cell>
+    <Cell><Data ss:Type="String">Owners</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3266</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_owners.contact_addresses</Data></Cell>
+    <Cell><Data ss:Type="String">location_postal_code_last</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3419</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">etc_type</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">ETC Type</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3420</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">etc_cutoff</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">ETC Cut Off</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3421</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">etc_bypass_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">boolean</Data></Cell>
+    <Cell><Data ss:Type="String">ETC Bypass Indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3422</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">pos_flags</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">POS Flags</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3423</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">visa_aggregator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Visa Aggregator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3424</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">trans_armor_service_code</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Trans Armor Service Code</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3425</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">encryption_type</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Encryption Type</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3426</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">token_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Token Indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3427</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">help_center</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Help Center</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3428</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">mastercard_cat_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Mastercard CAT Indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3429</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">visa_cat_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Visa CAT indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3430</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">discover_industry_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Discover Industry Indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3431</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">data_analytics_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Data Analytics Indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3432</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">data_analytics_product_type</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Data Analytics Product Type</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3433</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">tape_reference_flag</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Tape Reference Flag</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3434</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">mca_assigned_id</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">MCA Assigned ID</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3435</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">visa_business_id</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">Visa Business ID</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3436</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">mc_security_protocol_id</Data></Cell>
+    <Cell><Data ss:Type="String">text</Data></Cell>
+    <Cell><Data ss:Type="String">MC Security Protocol ID</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3437</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">client_details</Data></Cell>
+    <Cell><Data ss:Type="String">perka_training_indicator</Data></Cell>
+    <Cell><Data ss:Type="String">picklist</Data></Cell>
+    <Cell><Data ss:Type="String">Perka Training Indicator</Data></Cell>
+    <Cell><Data ss:Type="String">Other Information</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>6</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+     <RangeSelection>R15C7:R33C7</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,48 @@
+id,,,field_name,is_xml_field,parent_id,field_type,field_length,description,required,meta_field_id,rule,reference_type,,Sections
+68,,,HasOwner2,1,50,boolean,\N,\N,1,\N,,\N,,
+89,,,ClientMpaDateSigned1,1,86,date,\N,\N,0,\N,\N,\N,,
+92,,,ClientMpaDateSigned2,1,86,date,\N,\N,0,\N,\N,\N,,
+95,,,TelecheckDateSigned,1,86,date,\N,\N,0,\N,\N,\N,,
+98,,,GuaranteeDateSigned1,1,86,date,\N,\N,0,\N,\N,\N,,
+101,,,GuaranteeDateSigned2,1,86,date,\N,\N,0,\N,\N,\N,,
+117,,,Last4Zip,1,104,string,4,\N,0,\N,\N,\N,,
+126,ApplicationInformation.MpaOutletInfo.Outlet.BusinessInfo,,NextReviewDate,1,104,date,\N,\N,0,\N,\N,\N,,Merchant Account Data
+168,ApplicationInformation.MpaOutletInfo.Outlet.MotoBBInet,,CCSalesProcessedAt,1,161,\N,\N,\N,0,\N,\N,CCSalesProcessedAt,,Processing Percentage
+205,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,MiscField,1,188,string,\N,\N,1,\N,\N,\N,,
+206,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,MiscField1,1,188,string,\N,\N,1,\N,\N,\N,,
+212,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag1,1,188,string,8,\N,0,\N,\N,\N,,
+213,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag2,1,188,string,8,\N,0,\N,\N,\N,,
+214,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag3,1,188,string,8,\N,0,\N,\N,\N,,
+215,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag4,1,188,string,8,\N,0,\N,\N,\N,,
+216,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag5,1,188,string,8,\N,0,\N,\N,\N,,
+217,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag6,1,188,string,8,\N,0,\N,\N,\N,,
+218,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag7,1,188,string,8,\N,0,\N,\N,\N,,
+219,ApplicationInformation.MpaOutletInfo.Outlet.Processing,,SpecialFlag8,1,188,string,8,\N,0,\N,\N,\N,,
+236,,,CcPercentTotal,1,226,numeric,\N,\N,1,\N,\N,\N,,Processing Percentage
+240,,,CcPercentTo,1,226,numeric,\N,\N,1,\N,\N,\N,,Processing Percentage
+241,ApplicationInformation.MpaOutletInfo.Outlet.Transaction,,UnderwritingComments,1,226,string,66,\N,0,\N,\N,\N,,Processing Percentage
+391,ApplicationInformation.MpaOutletInfo.Outlet.Entitlement,,AmexIATANumberAmericaExpress,1,379,string,\N,\N,0,\N,\N,\N,,Others
+415,ApplicationInformation.MpaOutletInfo.Outlet.Entitlement,,WrightExEntitlement,1,379,boolean,\N,\N,0,\N,,\N,,Compliance Information
+437,ApplicationInformation.MpaOutletInfo.Outlet.OtherFees,,TelecheckChargePerCall,1,422,numeric,0-99.99,\N,0,\N,\N,\N,,Others
+538,ApplicationInformation.MpaOutletInfo.Outlet.OtherFees,,MerchantFeeControlGridLevel,1,422,\N,\N,\N,0,\N,\N,\N,,Others
+548,ApplicationInformation.MpaOutletInfo.Outlet.ClientExpense,,TerminalBillExpSchedule,1,539,\N,\N,\N,1,\N,\N,TerminalBillExpSchedule,,Compliance Information
+557,ApplicationInformation.MpaOutletInfo.Outlet.ClientExpense,,AuthExpenseGridLevel,1,539,\N,\N,\N,1,\N,\N,\N,,Others
+594,ApplicationInformation.MpaOutletInfo.Outlet.Exception,Rates and fees - other,CHOccursInBatch,1,572,numeric,0-99,\N,0,\N,\N,\N,,Others
+611,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment,,Scanner,1,602,numeric,\N,\N,0,\N,\N,\N,,Equipment Options
+612,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment,,WeightScale,1,602,numeric,\N,\N,0,\N,\N,\N,,Equipment Options
+613,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment,,KitchenPrinter,1,602,numeric,\N,\N,0,\N,\N,\N,,Equipment Options
+620,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,EquipmentTemplateId,1,619,\N,\N,\N,1,\N,\N,EquipmentTemplateId,,Equipment Options
+622,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,AutoCloseTimeInMilitary,1,619,string,\N,\N,0,\N,\N,\N,,Equipment Options
+623,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,ConfirmBatchAmountOnSettlement,1,619,\N,\N,\N,1,\N,\N,ConfirmBatchAmountOnSettlement,,Equipment Options
+624,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,ManuallyKeyInvoiceNumber,1,619,\N,\N,\N,1,\N,\N,ManuallyKeyInvoiceNumber,,Equipment Options
+625,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,PromptForOrderNumberOnManualEntry,1,619,\N,\N,\N,1,\N,\N,PromptForOrderNumberOnManualEntry,,Equipment Options
+626,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,EnableTransArmor,1,619,\N,\N,\N,1,\N,\N,EnableTransArmor,,Equipment Options
+627,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,EnableIP,1,619,\N,\N,\N,1,\N,\N,EnableIP,,Equipment Options
+628,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,SettleWithUnadjustedTips,1,619,\N,\N,\N,1,\N,\N,SettleWithUnadjustedTips,,Equipment Options
+629,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,PrintReceiptWhenClosingTabs,1,619,string,\N,\N,1,\N,\N,\N,,Equipment Options
+631,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,PromptForTipOnPINPad,1,619,\N,\N,\N,1,\N,\N,PromptForTipOnPINPad,,Equipment Options
+632,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,GratuityGuide,1,619,\N,\N,\N,1,\N,\N,GratuityGuide,,Equipment Options
+633,ApplicationInformation.MpaOutletInfo.Outlet.EquipmentFE.Equipments.Equipment.EquipmentTemplate,Terminal & Equipment - Equipment Features,ServerPrompt,1,619,string,\N,\N,1,\N,\N,\N,,Equipment Options
+646,,,First5Zip,1,640,string,5,\N,1,\N,\N,\N,,
+647,,,Last4Zip,1,640,string,4,\N,1,\N,\N,\N,,
+648,ApplicationInformation.MpaOutletInfo.Outlet.OtherFees,,MerchantFeeControlGridValue,1,422,\N,\N,\N,0,\N,\N,\N,,Others
